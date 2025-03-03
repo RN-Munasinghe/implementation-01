@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="assets/Innosys.png" alt="innosys" width="200"></a>
+  <img src="Innosys.png" alt="innosys" width="200"></a>
   <br>
   InnoSys
   <br>
