@@ -19,9 +19,9 @@
 </center>
 
 <div align="center">
-    <img alt="Demo" src="assets/1.png" width="30%" />
-    <img alt="Demo" src="assets/2.png" width="30%" />
-    <img alt="Demo" src="assets/3.png" width="30%" />
+    <img alt="Demo" src="1.png" width="30%" />
+    <img alt="Demo" src="2.png" width="30%" />
+    <img alt="Demo" src="3.png" width="30%" />
 </div>
 
 ## **🛠️ Technologies Used**
@@ -43,8 +43,6 @@ This project was built using the following technologies.
 * Mobile Application Integration: Seamlessly integrates with a mobile app for on-the-go traffic sign recognition and driver assistance.
 * Research Component - Preprocessing Algorithm
 
-## **🚀 Installation**
-- Clone the repository: git clone https://github.com/lakmina456/InnoSys_Implementation_01.git
 
 ## 🤝 Contributing
 
